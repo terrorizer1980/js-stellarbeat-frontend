@@ -37,7 +37,7 @@
     "leaflet": "1.7.1",
     "leaflet-sleep": "^0.5.2",
     "lru-cache": "^6.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "regenerator-runtime": "^0.13.3",
     "stellar_analysis": "^0.2.0",
     "stickybits": "^3.7.7",
