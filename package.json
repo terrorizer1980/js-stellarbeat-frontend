@@ -23,7 +23,7 @@
     "@stellarbeat/js-stellar-domain": "^2.12.4",
     "axios": "^0.19.0",
     "bootstrap-vue": "2.19.0",
-    "chart.js": "^2.9.3",
+    "chart.js": "^3.0.0",
     "connect-history-api-fallback": "^1.5.0",
     "core-js": "^3.3.3",
     "d3-force": "^1.1.2",
@@ -51,7 +51,7 @@
     "vue-property-decorator": "^9.1.2",
     "vue-router": "^3.0.2",
     "vue-scrollto": "^2.16.3",
-    "vue-server-renderer": "^2.6.12",
+    "vue-server-renderer": "^2.7.0",
     "vue-truncate-filter": "^1.1.7",
     "vue2-leaflet": "^2.6.0",
     "vue2-leaflet-markercluster": "^3.1.0"
